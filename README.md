@@ -11,8 +11,6 @@ Welcome to my GitHub profile! As a tech enthusiast, I'm fueled by a passion for 
 
 ## My GitHub Stats
 
-![Subhoshree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhoshreep&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhoshreep&layout=compact&theme=radical)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=subhoshreep&color=green)

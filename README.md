@@ -8,6 +8,9 @@ Welcome to my GitHub profile! As a tech enthusiast, I'm fueled by a passion for 
 - 💼 2023 Graduate | Tech Enthusiast | Web developer | Graphics Designer
 - 🌐 Explore my [portfolio](https://portfoliosubhoshreepattnaik.000webhostapp.com/) for projects.
 - 🚀 On a journey to learn, create, and contribute.
+- 🏅 Earn skill badges in C++, SQL, PYTHON - HACKERRABK
+- ⭐ 377 Code submission in 2023
+- 🏆 Basic SQL  and Python Skill certification- HACKERRANK
 
 ## My GitHub Stats
 

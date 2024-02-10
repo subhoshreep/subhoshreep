@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I'm Subhoshree Pattnaik 👋
+# I'm Subhoshree Pattnaik 👋
 
 Welcome to my GitHub profile! As a tech enthusiast, I'm fueled by a passion for coding and cutting-edge technology.
 
